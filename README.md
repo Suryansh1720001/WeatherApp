@@ -7,3 +7,5 @@ Upon opening the app, users are greeted with a visually appealing layout that di
 
 ### Screenshort 
 
+<img src= "https://github.com/Suryansh1720001/WeatherApp/assets/85965606/b2a0f9e4-274f-4ab5-9df9-f49e960f7d8a" width="80%" height="70%">
+
